@@ -1,2 +1,6 @@
 # hello-world
-Otro repositorio
+
+Hola,
+
+Mi nombre es Jose Miguel
+Me encanta ir a la playa!!!  :)
